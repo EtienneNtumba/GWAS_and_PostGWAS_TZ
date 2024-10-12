@@ -1,0 +1,7 @@
+name: plink_env
+channels:
+  - bioconda
+dependencies:
+  - plink
+  - pandas
+
